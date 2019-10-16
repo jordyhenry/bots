@@ -1,0 +1,13 @@
+{
+"companyName": "Templo Studio",
+"productName": "Hololens Remote",
+"dataUrl": "33718e4922cea4e0a4b49b61ec00adf2.unityweb",
+"wasmCodeUrl": "6a0f518fb7ecbc12277170a2b622f86b.unityweb",
+"wasmFrameworkUrl": "c32972733ea001677f0ed65a553919ac.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
